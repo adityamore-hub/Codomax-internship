@@ -7,3 +7,4 @@ college = input("Enter your college name: ")
 
 print("\nHello,", name)
 print("College:", college)
+    
